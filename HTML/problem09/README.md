@@ -1,8 +1,10 @@
 ## Description
 
-Create an HTML file so it matches the screenshot provided:
+Update the HTML file so it matches the gif provided:
 
-![goal](goal.png)
+![goal](goal.gif)
+
+Use the `<form>` element
 
 ## Submission
 
@@ -10,16 +12,27 @@ It will automatically be submitted the next time you push.
 
 ## Reference
 
-Don't worry about styling and alignment at this point, we'll worry about that when we add CSS
+Don't worry about styling at this point, we'll have other exercises for that
 
-Use `target="_blank"` on the `<a>` tags to open the links in a new tab
+Use the `<label>` tag to make the text describing inputs clickable
 
-Links:
+```
+<label>
+    <input type="radio" required /> text
+</label>
+```
 
-https://en.wikipedia.org/wiki/Canada
+Make all input elements before the **Extras** section required with the required attribute
 
-https://en.wikipedia.org/wiki/United_States
+```
+<input type="text" required />
+```
 
-https://en.wikipedia.org/wiki/China
+Use the `<select>` tag for the pickup list
 
-https://en.wikipedia.org/wiki/Japan
+```
+<select>
+    <option selected="selected">Select One</option>
+    <option>Option 1</option>
+</select>
+```

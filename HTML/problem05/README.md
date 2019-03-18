@@ -1,22 +1,16 @@
 ## Description
 
-Write an HTML page that matches the following:
-![goal](screenshot.png)
-If you did not find the previous exercise easy, start from scratch.
+Modify the input HTML file so that it matches the output HTML file.
+
+## Purpose
+
+To learn the replace functionality of vscode
 
 ## Submission
 
-It will automatically be submitted the next time you push.
+No need to submit this one.
 
 ## Reference
 
-Your file should have this structure:
-
-```
-<!DOCTYPE html>
-<html>
-   <body>
-      ...
-   </body>
-</html>
-```
+In VSCode, find the text to replace (cmd+f on mac, ctrl+f on windows) then click on the arrow on the left, enter the text to replace in the second box
+You can also select text, then use cmd+d to select the next occurence of the text and edit

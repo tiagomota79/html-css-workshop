@@ -1,14 +1,14 @@
 ## Description
 
-Write an HTML page that matches the screenshot provided.
+Write an HTML page that matches the following:
 
 ![goal](screenshot.png)
 
-To solve this problem, you will have to look up the h1 to h6 tags. A solution is provided at the bottom. Try googling "h tags w3schools" for hints
+If you did not find the previous exercise easy, start from scratch.
 
 ## Submission
 
-When you are done, take a screenshot and place the screenshot in the submission subdirectory. Also, place your HTML file in the submission subdirectory. Don't forget to push your repository so that the TAs and teacher can see it.
+It will automatically be submitted the next time you push.
 
 ## Reference
 

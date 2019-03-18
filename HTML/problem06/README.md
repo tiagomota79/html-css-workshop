@@ -1,16 +1,16 @@
 ## Description
 
-Modify the input HTML file so that it matches the output HTML file.
-
-## Purpose
-
-To learn the replace functionality of vscode
+Update the HTML code to match the following:
+![goal](goal.png)
 
 ## Submission
 
-No need to submit this one.
+It will automatically be submitted the next time you push.
 
 ## Reference
 
-In VSCode, find the text to replace (cmd+f on mac, ctrl+f on windows) then click on the arrow on the left, enter the text to replace in the second box
-You can also select text, then use cmd+d to select the next occurence of the text and edit
+Image link: https://media.socastsrm.com/wordpress/wp-content/blogs.dir/671/files/2018/07/beeplugin_languages.png
+
+TIOBE Index link: https://www.tiobe.com/tiobe-index/
+
+Use `target="_blank"` on the `<a>` tag to open the link in a new tab

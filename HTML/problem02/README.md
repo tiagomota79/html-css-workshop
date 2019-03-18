@@ -1,10 +1,8 @@
 ## Description
 
-Write an HTML page that matches the screenshot provided.
+Make the HTML file that, when loaded into a browser, generates the following DOM:
 
-![goal](screenshot.png)
-
-To solve this problem, you will have to look up the h1 to h6 tags. A solution is provided at the bottom. Try googling "h tags w3schools" for hints
+![goal](goal.png)
 
 ## Submission
 
