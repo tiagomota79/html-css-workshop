@@ -28,3 +28,14 @@ Your HTML should have the following structure:
 ```
 
 Where style.css is the name of your css file.
+
+You will need to set the height on your `<div class="container">`
+
+```
+min-height: 100vh;
+```
+
+This specifies that the content height should be at least as big as the full viewport height
+
+_Optional_  
+Use the Poppins font

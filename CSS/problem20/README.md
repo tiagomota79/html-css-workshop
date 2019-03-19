@@ -30,6 +30,6 @@ Use the provided image in the imgs folder
 To style your main `<div>` with a background image, you will need to use:
 
 ```
-background: url('imgs/bg.jpg'); /* you need to specify the path to the file */
+background-image: url('imgs/bg.jpg'); /* you need to specify the path to the file */
 background-size: cover; /* This ensures the image covers the full space and does not repeat */
 ```

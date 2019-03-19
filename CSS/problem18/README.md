@@ -24,3 +24,5 @@ Your HTML should have the following structure:
 ```
 
 Where style.css is the name of your css file.
+
+Use the Poppins font

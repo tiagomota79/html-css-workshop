@@ -1,9 +1,14 @@
-.pinkdiv {
-    background-color: pink;
+.container {
+    display: flex;
 }
-.purple {
-    background-color: purple;
+
+.smol {
+    height:100px;
 }
-.big {
-    font-size: 50pt;
+
+.col {
+    text-align: center;
+    border-style: dashed;
+    margin:20px;
+    padding: 10px;
 }

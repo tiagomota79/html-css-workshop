@@ -1,8 +1,18 @@
 ## Description
-
-index.html and style.css files have been provided. Modify the style.css so it matches the following:
+Modify the style.css file so that it recreates the following image
 ![goal](screenshot.png)
 
-## Submission
+It does not need to be pixel perfect
 
+## Submission
 It will automatically be submitted the next time you push.
+
+## Reference
+
+You will need to use the display css property and set it to flex. Furthermore, you will need the following properties:
+
+    height
+    text-align
+    border-style
+    margin
+    padding

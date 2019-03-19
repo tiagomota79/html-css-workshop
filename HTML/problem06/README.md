@@ -9,7 +9,7 @@ It will automatically be submitted the next time you push.
 
 ## Reference
 
-Image link: https://media.socastsrm.com/wordpress/wp-content/blogs.dir/671/files/2018/07/beeplugin_languages.png
+Image can be found in the imgs folder
 
 TIOBE Index link: https://www.tiobe.com/tiobe-index/
 

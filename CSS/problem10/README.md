@@ -1,31 +1,41 @@
 ## Description
-The style.css has been deleted. Write it again from scratch. The resulting webpage has to match:
-![goal](screenshot.png)
 
+Create an HTML file and a CSS file that reproduces the following:
+![goal](goal.png)
 
-##Submission
-Create it in the current directory and it will be automatically submitted the next time you push
+Use flexbox
+
+## Submission
+
+It will automatically be submitted the next time you push.
 
 ## Reference
 
-You will need to use the following css properties:
-    text-align  
-    font-size  
-    background-color  
-    list-style-type  
-    text-decoration  
-    font-family  
-
-Here is the structure of a class file
+Your HTML should have the following structure:
 
 ```
-.classname {  
-    ...  
-}  
-#idname {  
-    ...  
-}  
-tagname {  
-    ...  
-}
+<!DOCTYPE html>
+<html>
+   <head>
+       <link rel="stylesheet" type="text/css" href="style.css">
+   </head>
+   <body>
+      <div class="container">
+      ...
+      </div>
+   </body>
+</html>
 ```
+
+Where style.css is the name of your css file.
+
+You will need to set the height on your `<div class="container">`
+
+```
+min-height: 100vh;
+```
+
+This specifies that the content height should be at least as big as the full viewport height
+
+_Optional_  
+Use the Poppins font

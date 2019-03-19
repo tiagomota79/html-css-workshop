@@ -1,14 +1,22 @@
-.title {
-    font-size: 20pt;
+.container {
+    display: flex;
+}
+
+.smol {
+    height:100px;
+}
+
+.col {
     text-align: center;
+    border-style: dashed;
+    margin:20px;
+    padding: 10px;
 }
-.subtitle {
-    font-size: 15pt;
-    text-align: center;
+
+.heading {
+   
 }
-.content {
-   font-family: comic-sans;
-}
-.emph {
-    font-style: italic;
+
+.section {
+    margin: 100px;
 }
