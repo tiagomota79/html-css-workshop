@@ -3,7 +3,7 @@
 Create an HTML file and a CSS file that reproduces the following:
 ![goal](goal.png)
 
-Use grid
+Use Grid
 
 ## Submission
 
