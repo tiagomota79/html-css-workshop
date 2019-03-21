@@ -1,32 +1,32 @@
 ## Description
 
-Update only the CSS file to reproduce the following:  
+Update only the CSS file to reproduce the following:
 ![goal](goal.gif)
 
 ## Reference
 
-Needed CSS properties
+Try styling the unordered list with Grid first and then Flexbox (not at the same time), see what's easier.  
+You can comment your CSS code when trying out the other display mode by selecting your code with the mouse and using `cmd+/`
 
 ```
-box-shadow
-margin-bottom
+border-spacing
 border-radius
-max-width
-box-sizing
-border-top
-text-align
-margin-left
-width
-min-height
-margin-top
-padding
-font-size
 border
-margin
-display
-cursor
-transition
-background
+background-color
+margin-bottom
+justify-content
+flex
+margin-right
+grid-column-gap
+grid-template-columns
+list-style-type
+text-decoration
 color
-:hover
+padding
+display
+box-sizing
+text-align
+width
+:nth-child(even)
+:last-child
 ```

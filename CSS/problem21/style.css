@@ -1,38 +1,41 @@
-body {
-  margin: 0;
-  font-family: Poppins, sans-serif;
-}
-
 .header {
 }
 
-.registration-form {
+#facts {
 }
 
-.text-field {
+tr {
 }
 
-.radio-label,
-.checkbox-label {
+th {
 }
 
-label {
+td,
+th {
 }
 
-.section {
+h3 {
+  margin-bottom: 0;
 }
 
-.section > label {
+/* Using CSS grid */
+.links {
 }
 
-select {
+.links > li {
 }
 
-textarea {
+/* 
+Using Flexbox
+You can comment / uncomment this code using cmd+/
+*/
+/* 
+.links {
 }
 
-.form-button {
+.links > li {
 }
+*/
 
-.form-button:hover {
+.links a {
 }
