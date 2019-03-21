@@ -8,25 +8,10 @@ Update only the CSS file to reproduce the following:
 Needed CSS properties
 
 ```
-box-shadow
-margin-bottom
-border-radius
-max-width
-box-sizing
-border-top
+grid-area
 text-align
-margin-left
-width
-min-height
-margin-top
-padding
-font-size
-border
-margin
+grid-template-row
 display
-cursor
-transition
-background
-color
-:hover
+grid-template-areas
+@media (min-width: 768px)
 ```
