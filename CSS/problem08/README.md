@@ -5,10 +5,6 @@ Create an HTML file and a CSS file that reproduces the following:
 
 It does not need to be pixel perfect
 
-## Submission
-
-It will automatically be submitted the next time you push.
-
 ## Reference
 
 Your HTML should have the following structure:
@@ -26,3 +22,13 @@ Your HTML should have the following structure:
 ```
 
 Where style.css is the name of your css file.
+
+You will need the following properties:
+
+    height
+    text-align
+    display
+    border-style
+    margin
+    padding
+    font-weight
