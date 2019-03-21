@@ -1,22 +1,7 @@
-# Optional exercise
-
 ## Description
 
 Create an HTML file and a CSS file that reproduces the following:
 ![goal](goal.png)
-
-Don't use grid or flexbox  
-Hint: Use calc()
-
-- Example use:
-
-```
-min-height: calc(100vh - 20px);
-```
-
-## Submission
-
-It will automatically be submitted the next time you push.
 
 ## Reference
 
@@ -36,13 +21,17 @@ Your HTML should have the following structure:
 
 Where style.css is the name of your css file.
 
-You will need to set the height on your `<div class="container">`
+Set the body margin to 0
+
+Use the provided product.jpg image for all `<img>` elements
+
+You will need to set the width on the `<img>` elements to 100% so they fill in the grid cells
 
 ```
-min-height: 100vh;
+margin
+grid-template-columns
+width
+display
+outline
+
 ```
-
-This specifies that the content height should be at least as big as the full viewport height
-
-_Optional_  
-Use the Poppins font

@@ -1,20 +1,14 @@
 body {
   margin: 0;
-  font-family: Poppins, sans-serif;
-}
-
-.bar {
-  height: 50px;
-  background: #3a3633;
-  color: #fff;
-}
-
-.center-content {
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 .main {
-  min-height: calc(100vh - 100px);
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.product-img {
+  width: 100%;
+  display: block;
+  outline: 1px solid red;
 }

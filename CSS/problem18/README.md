@@ -1,28 +1,36 @@
 ## Description
 
-Create an HTML file and a CSS file that reproduces the following:
-![goal](goal.png)
-
-## Submission
-
-It will automatically be submitted the next time you push.
+Update the HTML file CSS file to reproduce the following:
+![goal](goal.gif)
 
 ## Reference
 
-Your HTML should have the following structure:
+Use the `animation` property with 1s duration and _ease-in-out_ easing function
+Use `translate()` and `scale()` for the transform animations
+Use `cursor: pointer` on the button to change the cursor to a hand
+Use `text-transform` uppercase
+Check the `box-shadow` css property on google, w3schools has some examples on how it works
 
 ```
-<!DOCTYPE html>
-<html>
-   <head>
-       <link rel="stylesheet" type="text/css" href="style.css">
-   </head>
-   <body>
-      ...
-   </body>
-</html>
+@keyframes
+transform
+opacity
+animation
+padding
+border
+background
+color
+box-shadow
+border-radius
+font-size
+cursor
+text-transform
+hover
 ```
 
-Where style.css is the name of your css file.
+Bonus:  
+Make the button do a 360deg rotation when it bounces
 
-Use the Poppins font
+![goal](bonus.gif)
+
+Use the syntax `transform:scale() rotate()` in your keyframe

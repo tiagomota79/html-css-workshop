@@ -2,13 +2,40 @@ body {
   margin: 0;
 }
 
-.main {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+.nav {
+  background: #383737;
 }
 
-.product-img {
-  width: 100%;
+.nav-dropdown {
+  padding: 20px;
+  color: #fff;
+  text-decoration: none;
+  position: relative;
+  display: inline-block;
+}
+
+.nav-dropdown:hover > .dropdown-menu {
   display: block;
-  outline: 1px solid red;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: #03a9f4;
+}
+
+.dropdown-menu {
+  display: none;
+}
+
+.menu-list {
+  margin: 0;
+  padding: 0;
+}
+
+.menu-list > li {
+  list-style-type: none;
+  padding: 20px;
+}
+
+.menu-list > li:hover {
+  background: dodgerblue;
 }

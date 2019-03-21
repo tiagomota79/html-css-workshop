@@ -3,12 +3,6 @@
 Create an HTML file and a CSS file that reproduces the following:
 ![goal](goal.png)
 
-Use grid
-
-## Submission
-
-It will automatically be submitted the next time you push.
-
 ## Reference
 
 Your HTML should have the following structure:
@@ -20,22 +14,43 @@ Your HTML should have the following structure:
        <link rel="stylesheet" type="text/css" href="style.css">
    </head>
    <body>
-      <div class="container">
       ...
-      </div>
    </body>
 </html>
 ```
 
 Where style.css is the name of your css file.
 
-You will need to set the height on your `<div class="container">`
-
-```
-min-height: 100vh;
-```
-
-This specifies that the content height should be at least as big as the full viewport height
-
-_Optional_  
 Use the Poppins font
+
+You can use the `::after` pseudoelement to add an arrow to the "Find a store" link, e.g.
+
+```
+.link::after {
+  content: '>';
+}
+
+```
+
+All CSS properties & pseudo selectors you will need:
+
+```
+font-family
+text-align
+background
+border
+border-radius
+padding
+line-height
+font-size
+max-width
+margin
+margin-top
+color
+text-decoration
+content
+padding-left
+display
+:hover
+::after
+```

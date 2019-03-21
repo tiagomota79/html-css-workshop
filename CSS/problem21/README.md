@@ -1,31 +1,32 @@
 ## Description
 
-Update the CSS file to reproduce the following:  
-![goal](goal.png)
-
-The alpaca stays at the top left of the screen but must appear in front of the cat image  
-The cat is moved to the top left of the screen  
-The dog must always stay at the same position on the screen  
-The whales must be moved to the bottom left of the screen
-
-## Submission
-
-It will automatically be submitted the next time you push.
+Update only the CSS file to reproduce the following:
+![goal](goal.gif)
 
 ## Reference
 
-Your HTML should have the following structure:
+Try styling the unordered list with Grid first and then Flexbox (not at the same time), see what's easier.  
+You can comment your CSS code when trying out the other display mode by selecting your code with the mouse and using `cmd+/`
 
 ```
-<!DOCTYPE html>
-<html>
-   <head>
-       <link rel="stylesheet" type="text/css" href="style.css">
-   </head>
-   <body>
-      ...
-   </body>
-</html>
+border-spacing
+border-radius
+border
+background-color
+margin-bottom
+justify-content
+flex
+margin-right
+grid-column-gap
+grid-template-columns
+list-style-type
+text-decoration
+color
+padding
+display
+box-sizing
+text-align
+width
+:nth-child(even)
+:last-child
 ```
-
-Where style.css is the name of your css file.

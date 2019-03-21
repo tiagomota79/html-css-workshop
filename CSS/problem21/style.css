@@ -1,30 +1,41 @@
-.container {
-  min-height: 200vh;
+.header {
 }
 
-img {
-  max-width: 300px;
+#facts {
 }
 
-#img1 {
-  position: relative;
-  z-index: 1;
+tr {
 }
 
-#img2 {
-  position: absolute;
-  top: 0;
-  left: 0;
+th {
 }
 
-#img3 {
-  position: fixed;
-  top: 50%;
-  left: 50%;
+td,
+th {
 }
 
-#img4 {
-  position: absolute;
-  bottom: 0;
-  right: 0;
+h3 {
+  margin-bottom: 0;
+}
+
+/* Using CSS grid */
+.links {
+}
+
+.links > li {
+}
+
+/* 
+Using Flexbox
+You can comment / uncomment this code using cmd+/
+*/
+/* 
+.links {
+}
+
+.links > li {
+}
+*/
+
+.links a {
 }

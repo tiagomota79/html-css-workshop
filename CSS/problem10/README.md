@@ -1,41 +1,22 @@
 ## Description
 
-Create an HTML file and a CSS file that reproduces the following:
+Update the CSS file to reproduce the following:  
 ![goal](goal.png)
 
-Use flexbox
-
-## Submission
-
-It will automatically be submitted the next time you push.
+The alpaca stays at the top left of the screen but must appear in front of the cat image  
+The cat is moved to the top left of the screen  
+The dog must be 50% away from the top and from the left of the screen and always stay there (even when scrolling down)  
+The whales must be moved to the bottom left of the screen
 
 ## Reference
 
-Your HTML should have the following structure:
+Here are all the css properties you need
 
 ```
-<!DOCTYPE html>
-<html>
-   <head>
-       <link rel="stylesheet" type="text/css" href="style.css">
-   </head>
-   <body>
-      <div class="container">
-      ...
-      </div>
-   </body>
-</html>
+z-index
+top
+left
+position
+bottom
+right
 ```
-
-Where style.css is the name of your css file.
-
-You will need to set the height on your `<div class="container">`
-
-```
-min-height: 100vh;
-```
-
-This specifies that the content height should be at least as big as the full viewport height
-
-_Optional_  
-Use the Poppins font

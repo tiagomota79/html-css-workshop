@@ -1,30 +1,32 @@
 ## Description
 
-Create an HTML file and a CSS file that reproduces the following:
-![goal](goal.png)
-
-## Submission
-
-It will automatically be submitted the next time you push.
+Update only the CSS file to reproduce the following:  
+![goal](goal.gif)
 
 ## Reference
 
-Your HTML should have the following structure:
+Needed CSS properties
 
 ```
-<!DOCTYPE html>
-<html>
-   <head>
-       <link rel="stylesheet" type="text/css" href="style.css">
-   </head>
-   <body>
-      ...
-   </body>
-</html>
+box-shadow
+margin-bottom
+border-radius
+max-width
+box-sizing
+border-top
+text-align
+margin-left
+width
+min-height
+margin-top
+padding
+font-size
+border
+margin
+display
+cursor
+transition
+background
+color
+:hover
 ```
-
-Where style.css is the name of your css file.
-
-Use the provided product.jpg image for all `<img>` elements
-
-You will need to set the width on the `<img>` elements to fill the full width of the grid cells

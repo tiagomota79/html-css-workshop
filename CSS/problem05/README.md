@@ -11,11 +11,11 @@ Create it in the current directory and it will be automatically submitted the ne
 
 You will need to use the following css properties:  
 text-align  
-font-size  
 background-color  
-list-style-type  
+font-size  
+font-family  
 text-decoration  
-font-family
+list-style-type
 
 Here is the structure of a class file
 
