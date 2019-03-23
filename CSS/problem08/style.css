@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    padding: 10px;
+}
+.line{
+    justify-content: space-between;
+    text-align: center;
+    border-style: dashed;
+    padding: 10px;
+    margin-right: 50px;
+}
+img{
+    height: 150px;
+}
