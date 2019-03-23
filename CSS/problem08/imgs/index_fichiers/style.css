@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+}
+
+.bar{
+    display: flex;
+    background-color: #3a3633;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+.icon{
+    display: block;
+}

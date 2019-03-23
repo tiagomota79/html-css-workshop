@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    min-height: 100vh;
+    flex-direction: column;
+}
+.nav{
+    background-color: #555555;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+}
+body{
+    margin: 0px;
+}

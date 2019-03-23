@@ -3,7 +3,7 @@ body {
 }
 
 .nav {
-  background: #383737;
+  background-color: #383737;
 }
 
 .nav-dropdown {
@@ -19,7 +19,7 @@ body {
   position: absolute;
   top: 100%;
   left: 0;
-  background: #03a9f4;
+  background-color: #03a9f4;
 }
 
 .dropdown-menu {
@@ -37,5 +37,5 @@ body {
 }
 
 .menu-list > li:hover {
-  background: dodgerblue;
+  background-color: dodgerblue;
 }

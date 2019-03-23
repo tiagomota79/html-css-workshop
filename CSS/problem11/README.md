@@ -43,7 +43,7 @@ Use the Poppins font
   flex-direction
   min-height
   height
-  background
+  background-color
   color
   display
   align-items

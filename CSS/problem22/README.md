@@ -26,7 +26,7 @@ margin
 display
 cursor
 transition
-background
+background-color
 color
 :hover
 ```

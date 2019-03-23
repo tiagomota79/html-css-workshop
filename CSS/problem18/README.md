@@ -18,7 +18,7 @@ opacity
 animation
 padding
 border
-background
+background-color
 color
 box-shadow
 border-radius

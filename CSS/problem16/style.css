@@ -1,0 +1,12 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    border-style: solid;
+    border-color: black;
+    border-radius: 20px;
+    font-size: 2pc;
+}
