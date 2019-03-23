@@ -11,7 +11,8 @@ body {
 
 .main {
   min-height: 100vh;
-  background: url('../imgs/bg.jpg');
+  background-image: url('../imgs/bg.jpg');
   background-size: cover;
+  background-position: center;
   color: #fff;
 }

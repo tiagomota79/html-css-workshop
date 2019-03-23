@@ -46,7 +46,7 @@ Example use: `min-height: calc(10vh + 200px);`
 margin
 font-family
 height
-background
+background-color
 color
 display
 align-items

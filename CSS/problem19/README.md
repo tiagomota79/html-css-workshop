@@ -1,6 +1,6 @@
 ## Description
 
-Update the HTML file CSS file to reproduce the following:  
+Update the HTML file and CSS file to reproduce the following:  
 ![goal](goal.gif)
 
 ## Reference
@@ -15,6 +15,6 @@ display
 margin
 list-style-type
 padding
-background
+background-color
 :hover
 ```

@@ -54,7 +54,7 @@ Here is the full list of CSS properties you will need:
 
 ```
 padding
-background
+background-color
 align-items
 justify-content
 color

@@ -28,7 +28,7 @@ body {
 .cool {
   padding: 20px;
   border: 0;
-  background: dodgerblue;
+  background-color: dodgerblue;
   color: #fff;
   box-shadow: 0px 2px 12px 2px #a5a5a5;
   border-radius: 6px;

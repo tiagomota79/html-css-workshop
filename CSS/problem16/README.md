@@ -37,7 +37,6 @@ All CSS properties & pseudo selectors you will need:
 ```
 font-family
 text-align
-background
 border
 border-radius
 padding

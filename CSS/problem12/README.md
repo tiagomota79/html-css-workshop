@@ -44,7 +44,7 @@ Use the Poppins font
   grid-template-rows
   min-height
   height
-  background
+  background-color
   color
   display
   align-items
