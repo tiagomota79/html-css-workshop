@@ -1,17 +1,31 @@
 .header {
+  text-align: center;
 }
 
 #facts {
+  border-spacing: 0;
+  width: 100%;
+  padding: 15px;
+  border-style: solid;
+  border-color: darkgrey;
+  border-width: 1px;
 }
 
-tr {
+tr:nth-child(even) {
+  background: rgb(187, 187, 187)
+}
+
+tr:nth-child(odd) {
+  background: rgb(245, 245, 245)
 }
 
 th {
+  text-align: left;
 }
 
 td,
 th {
+  padding: 8px;
 }
 
 h3 {
@@ -19,8 +33,14 @@ h3 {
 }
 
 /* Using CSS grid */
-.links {
-}
+/* .links {
+  display: grid;
+  padding: 1px;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  text-align: center;
+  list-style-type: none;
+  grid-column-gap: 10px;
+} */
 
 .links > li {
 }
@@ -29,13 +49,31 @@ h3 {
 Using Flexbox
 You can comment / uncomment this code using cmd+/
 */
-/* 
+
 .links {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-between;
+  padding: 0;
+  text-align: center;
 }
 
 .links > li {
+  flex: 1;
+  margin-right: 10px;
 }
-*/
+
+.links > li:last-child {
+  margin-right: 0;
+}
+
 
 .links a {
+  text-decoration: none;
+  color: white;
+  background-color: rgb(71, 71, 255);
+  padding: 20px;
+  display: inline-block;
+  box-sizing: border-box;
+  width: 100%;
 }
